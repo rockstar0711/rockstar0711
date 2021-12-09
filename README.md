@@ -5,15 +5,12 @@
 <a href="https://t.me/rockstar940711">
   <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
 </a>&nbsp;&nbsp;
-<!-- <a href="https://join.skype.com/invite/s2xsvTnNCEPh">
+<a href="https://join.skype.com/invite/xoKg9QWc5sT9">
   <img src="https://img.shields.io/badge/skype-%231DA1F3.svg?&style=for-the-badge&logo=skype&logoColor=white" />
-</a>&nbsp;&nbsp; -->
+</a>&nbsp;&nbsp;
 <a href="https://discord.gg/VmAPQJQU">
   <img src="https://img.shields.io/badge/discord-%230077B5.svg?&style=for-the-badge&logo=discord&logoColor=white" />
 </a>&nbsp;&nbsp;
-<!-- <a href="https://www.linkedin.com/in/kroim1202">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>&nbsp;&nbsp; -->
 <a href="mailto:geostar0321@gmail.com">
   <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
