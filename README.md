@@ -132,16 +132,16 @@
 ### **_Status_**
 
 <p align="center">
-    <img alt="status" src="https://github-readme-stats.vercel.app/api?username=rockstar0711&show_icons=true&&custom_title=Current%20Status&title_color=baf14f&text_color=76d285&icon_color=cff389&theme=dark" align="center" />
+    <img alt="status" src="https://github-readme-stats.vercel.app/api?username=rockstar0711&show_icons=true&&custom_title=Current%20Status&title_color=baf14f&text_color=76d285&icon_color=cff389&theme=dark&count_private=true" align="center" />
   </p>
 
-<!-- - ΞΒΞΒΞΒΞΒ Hi, IΞΒ²ΞΒΞΒm @rockstar0711
-- ΞΒΞΒΞΒΞΒ IΞΒ²ΞΒΞΒm interested in ...
-- ΞΒΞΒΞΒΞΒ± IΞΒ²ΞΒΞΒm currently learning ...
-- ΞΒΞΒΞΒΞΒΞΞΞΒΞΒ IΞΒ²ΞΒΞΒm looking to collaborate on ...
-- ΞΒΞΒΞΒΞΒ« How to reach me ... -->
+<!-- - ΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒ Hi, IΞΒΞΒ²ΞΒΞΒΞΒΞΒm @rockstar0711
+- ΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒ IΞΒΞΒ²ΞΒΞΒΞΒΞΒm interested in ...
+- ΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒ± IΞΒΞΒ²ΞΒΞΒΞΒΞΒm currently learning ...
+- ΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒ IΞΒΞΒ²ΞΒΞΒΞΒΞΒm looking to collaborate on ...
+- ΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒ« How to reach me ... -->
 
 <!---
-rockstar0711/rockstar0711 is a ΞΒ²ΞΒΞΒ¨ special ΞΒ²ΞΒΞΒ¨ repository because its `README.md` (this file) appears on your GitHub profile.
+rockstar0711/rockstar0711 is a ΞΒΞΒ²ΞΒΞΒΞΒΞΒ¨ special ΞΒΞΒ²ΞΒΞΒΞΒΞΒ¨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
