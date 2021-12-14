@@ -1,5 +1,10 @@
 ## Hi I'm Rockstar0711 <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
+### **_Introduce_**
+<p align="center">
+  <a href="https://github.com/rockstar0711" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?color=%237FFF3C&center=true&width=500&lines=%F0%9F%8E%89Welcome+to+my+creative+world!;%F0%9F%A5%87Highly+skilled+professional+developer;+with+8+years+of+experience;%F0%9F%A5%87Solid+leadership+skills;%F0%9F%A5%87Unrivaled+development+skills5"></a>
+</p>
+
 ### **_Contact Details_**
 <p align='center'>
 <a href="https://t.me/rockstar940711">
@@ -31,13 +36,15 @@
   </tr>  
 </table>
 
-<!-- - 👋 Hi, I’m @rockstar0711
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... -->
+
+
+<!-- - π Hi, Iβm @rockstar0711
+- π Iβm interested in ...
+- π± Iβm currently learning ...
+- ποΈ Iβm looking to collaborate on ...
+- π« How to reach me ... -->
 
 <!---
-rockstar0711/rockstar0711 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+rockstar0711/rockstar0711 is a β¨ special β¨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
