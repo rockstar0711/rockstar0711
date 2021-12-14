@@ -2,20 +2,20 @@
 
 ### **_Introduce_**
 <p align="center">
-  <a href="https://github.com/rockstar0711" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?color=%237FFF3C&center=true&width=500&lines=%F0%9F%8E%89Welcome+to+my+creative+world!;%F0%9F%A5%87Highly+skilled+professional+developer;+with+8+years+of+experience;%F0%9F%A5%87Solid+leadership+skills;%F0%9F%A5%87Unrivaled+development+skills5"></a>
+  <a href="https://github.com/rockstar0711"><img src="https://readme-typing-svg.herokuapp.com?color=%237FFF3C&center=true&width=500&lines=%F0%9F%8E%89Welcome+to+my+creative+world!;%F0%9F%A5%87Highly+skilled+professional+developer;+with+8+years+of+experience;%F0%9F%A5%87Solid+leadership+skills;%F0%9F%A5%87Unrivaled+development+skills5"></a>
 </p>
 
 ### **_Contact Details_**
 <p align='center'>
 <a href="https://t.me/rockstar940711">
   <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
-</a>&nbsp;&nbsp;
+</a>
 <a href="https://discord.gg/VmAPQJQU">
   <img src="https://img.shields.io/badge/discord-%230077B5.svg?&style=for-the-badge&logo=discord&logoColor=white" />
-</a>&nbsp;&nbsp;
+</a>
 <a href="mailto:geostar0321@gmail.com">
   <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>&nbsp;&nbsp;
+</a>
 </p>
 
 ### **_Skills_**
@@ -34,17 +34,19 @@
       <td><img src="https://github.com/rockstar0711/Profile/blob/master/icon_defi.png?raw=true" width="200"></td>
       <td><img src="https://github.com/rockstar0711/Profile/blob/master/icon_nft.png?raw=true" width="200"></td>
   </tr>  
+  
+  
 </table>
 
 
 
-<!-- - π Hi, Iβm @rockstar0711
-- π Iβm interested in ...
-- π± Iβm currently learning ...
-- ποΈ Iβm looking to collaborate on ...
-- π« How to reach me ... -->
+<!-- - ΟΒΒΒ Hi, IΞ²ΒΒm @rockstar0711
+- ΟΒΒΒ IΞ²ΒΒm interested in ...
+- ΟΒΒΒ± IΞ²ΒΒm currently learning ...
+- ΟΒΒΒΞΏΞΒ IΞ²ΒΒm looking to collaborate on ...
+- ΟΒΒΒ« How to reach me ... -->
 
 <!---
-rockstar0711/rockstar0711 is a β¨ special β¨ repository because its `README.md` (this file) appears on your GitHub profile.
+rockstar0711/rockstar0711 is a Ξ²ΒΒ¨ special Ξ²ΒΒ¨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
