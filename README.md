@@ -2,7 +2,7 @@
 
 ### **_Introduce_**
 <p align="center">
-  <a href="https://github.com/rockstar0711"><img src="https://readme-typing-svg.herokuapp.com?color=%237FFF3C&center=true&width=500&lines=%F0%9F%8E%89Welcome+to+my+creative+world!;%F0%9F%A5%87Highly+skilled+professional+developer;+with+8+years+of+experience;%F0%9F%A5%87Solid+leadership+skills;%F0%9F%A5%87Unrivaled+development+skills5"></a>
+  <a href="https://github.com/rockstar0711"><img src="https://readme-typing-svg.herokuapp.com?color=%237FFF3C&center=true&width=500&lines=%F0%9F%8E%89Welcome+to+my+creative+world!;%F0%9F%A5%87Highly+skilled+professional+developer;+with+8+years+of+experience;%F0%9F%A5%87Solid+leadership+skills;%F0%9F%A5%87Unrivaled+development+skills"></a>
 </p>
 
 ### **_Contact Details_**
@@ -135,13 +135,13 @@
     <img alt="status" src="https://github-readme-stats.vercel.app/api?username=rockstar0711&show_icons=true&&custom_title=Current%20Status&title_color=baf14f&text_color=76d285&icon_color=cff389&theme=dark&count_private=true" align="center" />
   </p>
 
-<!-- - ΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒ Hi, IΞΒΞΒ²ΞΒΞΒΞΒΞΒm @rockstar0711
-- ΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒ IΞΒΞΒ²ΞΒΞΒΞΒΞΒm interested in ...
-- ΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒ± IΞΒΞΒ²ΞΒΞΒΞΒΞΒm currently learning ...
-- ΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒ IΞΒΞΒ²ΞΒΞΒΞΒΞΒm looking to collaborate on ...
-- ΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒ« How to reach me ... -->
+<!-- - ΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒ Hi, IΞΒΞΒΞΒΞΒ²ΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒm @rockstar0711
+- ΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒ IΞΒΞΒΞΒΞΒ²ΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒm interested in ...
+- ΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒ± IΞΒΞΒΞΒΞΒ²ΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒm currently learning ...
+- ΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒ IΞΒΞΒΞΒΞΒ²ΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒm looking to collaborate on ...
+- ΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒ« How to reach me ... -->
 
 <!---
-rockstar0711/rockstar0711 is a ΞΒΞΒ²ΞΒΞΒΞΒΞΒ¨ special ΞΒΞΒ²ΞΒΞΒΞΒΞΒ¨ repository because its `README.md` (this file) appears on your GitHub profile.
+rockstar0711/rockstar0711 is a ΞΒΞΒΞΒΞΒ²ΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒ¨ special ΞΒΞΒΞΒΞΒ²ΞΒΞΒΞΒΞΒΞΒΞΒΞΒΞΒ¨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
