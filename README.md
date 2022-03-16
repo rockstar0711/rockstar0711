@@ -5,19 +5,6 @@
   <a href="https://github.com/rockstar0711"><img src="https://readme-typing-svg.herokuapp.com?color=%237FFF3C&center=true&width=500&lines=%F0%9F%8E%89Welcome+to+my+creative+world!;%F0%9F%A5%87Highly+skilled+professional+developer;+with+8+years+of+experience;%F0%9F%A5%87Solid+leadership+skills;%F0%9F%A5%87Unrivaled+development+skills"></a>
 </p>
 
-### **_Contact Details_**
-<p align='center'>
-<a href="https://t.me/rockstar00711">
-  <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-<a href="https://discord.gg/SDu9yf94">
-  <img src="https://img.shields.io/badge/discord-%230077B5.svg?&style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-<a href="mailto:geostar0321@gmail.com">
-  <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-</p>
-
 ### **_Skills_**
 <table>
   <tr>
